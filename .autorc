@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "sophakabuso",
+  "repo": "container-dch5ine",
+  "name": "sophakabuso",
+  "email": "60679360@mylife.unisa.ac.za",
+}
